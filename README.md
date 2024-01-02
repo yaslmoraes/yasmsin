@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yasmsin
-- 👀 I’m interested in linguagens de programação
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Yasmin! 
+- 👀 I’m interested in programming languages
+- 🌱 I’m currently learning Java and Typescript
 - 📫 How to reach me, my email: yasminmoraes1104@gmail.com
 
 <!---
