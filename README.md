@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasmin! 
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Java and Typescript
+- 🌱 I’m currently learning Java and Javascript
 - 📫 How to reach me, my email: yasminmoraes1104@gmail.com
 
 <!---
